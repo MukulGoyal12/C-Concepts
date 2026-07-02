@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\mukul\\c#- Stage 3\\Filter_21-05-26\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B609B1C-F780-BD45-21A4-04F0E52153CC}|Filter_21-05-26.csproj|c:\\mukul\\c#- stage 3\\filter_21-05-26\\controllers\\assetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B609B1C-F780-BD45-21A4-04F0E52153CC}|Filter_21-05-26.csproj|solutionrelative:controllers\\assetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B609B1C-F780-BD45-21A4-04F0E52153CC}|Filter_21-05-26.csproj|c:\\mukul\\c#- stage 3\\filter_21-05-26\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B609B1C-F780-BD45-21A4-04F0E52153CC}|Filter_21-05-26.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B609B1C-F780-BD45-21A4-04F0E52153CC}|Filter_21-05-26.csproj|c:\\mukul\\c#- stage 3\\filter_21-05-26\\filters\\assetactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B609B1C-F780-BD45-21A4-04F0E52153CC}|Filter_21-05-26.csproj|solutionrelative:filters\\assetactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B609B1C-F780-BD45-21A4-04F0E52153CC}|Filter_21-05-26.csproj|c:\\mukul\\c#- stage 3\\filter_21-05-26\\filters\\assetexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B609B1C-F780-BD45-21A4-04F0E52153CC}|Filter_21-05-26.csproj|solutionrelative:filters\\assetexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B609B1C-F780-BD45-21A4-04F0E52153CC}|Filter_21-05-26.csproj|c:\\mukul\\c#- stage 3\\filter_21-05-26\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7B609B1C-F780-BD45-21A4-04F0E52153CC}|Filter_21-05-26.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\mukul\\c#- Stage 3\\Filter_21-05-26\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\mukul\\c#- Stage 3\\Filter_21-05-26\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-22T03:57:34.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AssetController.cs",
+              "DocumentMoniker": "C:\\mukul\\c#- Stage 3\\Filter_21-05-26\\Controllers\\AssetController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AssetController.cs",
+              "ToolTip": "C:\\mukul\\c#- Stage 3\\Filter_21-05-26\\Controllers\\AssetController.cs",
+              "RelativeToolTip": "Controllers\\AssetController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T06:56:03.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\mukul\\c#- Stage 3\\Filter_21-05-26\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\mukul\\c#- Stage 3\\Filter_21-05-26\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T06:51:35.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssetExceptionFilter.cs",
+              "DocumentMoniker": "C:\\mukul\\c#- Stage 3\\Filter_21-05-26\\Filters\\AssetExceptionFilter.cs",
+              "RelativeDocumentMoniker": "Filters\\AssetExceptionFilter.cs",
+              "ToolTip": "C:\\mukul\\c#- Stage 3\\Filter_21-05-26\\Filters\\AssetExceptionFilter.cs",
+              "RelativeToolTip": "Filters\\AssetExceptionFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T06:49:08.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssetActionFilter.cs",
+              "DocumentMoniker": "C:\\mukul\\c#- Stage 3\\Filter_21-05-26\\Filters\\AssetActionFilter.cs",
+              "RelativeDocumentMoniker": "Filters\\AssetActionFilter.cs",
+              "ToolTip": "C:\\mukul\\c#- Stage 3\\Filter_21-05-26\\Filters\\AssetActionFilter.cs",
+              "RelativeToolTip": "Filters\\AssetActionFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T06:48:57.104Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

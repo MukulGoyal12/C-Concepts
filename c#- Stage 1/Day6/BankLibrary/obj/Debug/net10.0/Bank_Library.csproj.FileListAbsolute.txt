@@ -1,0 +1,11 @@
+C:\mukul\c#\Day6\BankLibrary\bin\Debug\net10.0\Bank_Library.deps.json
+C:\mukul\c#\Day6\BankLibrary\bin\Debug\net10.0\Bank_Library.dll
+C:\mukul\c#\Day6\BankLibrary\bin\Debug\net10.0\Bank_Library.pdb
+C:\mukul\c#\Day6\BankLibrary\obj\Debug\net10.0\Bank_Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\mukul\c#\Day6\BankLibrary\obj\Debug\net10.0\Bank_Library.AssemblyInfoInputs.cache
+C:\mukul\c#\Day6\BankLibrary\obj\Debug\net10.0\Bank_Library.AssemblyInfo.cs
+C:\mukul\c#\Day6\BankLibrary\obj\Debug\net10.0\Bank_Library.csproj.CoreCompileInputs.cache
+C:\mukul\c#\Day6\BankLibrary\obj\Debug\net10.0\Bank_Library.dll
+C:\mukul\c#\Day6\BankLibrary\obj\Debug\net10.0\refint\Bank_Library.dll
+C:\mukul\c#\Day6\BankLibrary\obj\Debug\net10.0\Bank_Library.pdb
+C:\mukul\c#\Day6\BankLibrary\obj\Debug\net10.0\ref\Bank_Library.dll

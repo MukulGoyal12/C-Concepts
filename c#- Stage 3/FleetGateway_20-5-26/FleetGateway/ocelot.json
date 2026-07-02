@@ -1,0 +1,33 @@
+{
+    "Routes": [
+        {
+            "DownstreamPathTemplate": "/staff/login",
+            "DownstreamScheme": "http",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "localhost",
+                    "Port": 5110
+                }
+            ],
+            "UpstreamPathTemplate": "/staff/login",
+            "UpstreamHttpMethod": [ "POST" ]
+        },
+        {
+            "DownstreamPathTemplate": "/api/vehicle",
+            "DownstreamScheme": "http",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "localhost",
+                    "Port": 5020
+                }
+            ],
+            "UpstreamPathTemplate": "/api/vehicle",
+            "UpstreamHttpMethod": [ "POST", "GET", "PUT", "DELETE" ]
+        }
+         
+    ],
+    "GlobalConfiguration": {
+        "BaseUrl": "http://localhost:5171"
+    }
+
+}

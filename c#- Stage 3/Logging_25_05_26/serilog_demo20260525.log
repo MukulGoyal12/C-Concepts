@@ -1,0 +1,22 @@
+2026-05-25 12:57:53.073 +05:30 [INF] Now listening on: http://localhost:5024
+2026-05-25 12:57:53.364 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-05-25 12:57:53.368 +05:30 [INF] Hosting environment: Development
+2026-05-25 12:57:53.371 +05:30 [INF] Content root path: C:\mukul\c#- Stage 3\Logging_25_05_26
+2026-05-25 12:57:57.708 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5024/weatherforecast - null null
+2026-05-25 12:57:58.236 +05:30 [INF] Executing endpoint 'Logging_25_05_26.Controllers.WeatherForecastController.Get (Logging_25_05_26)'
+2026-05-25 12:57:58.322 +05:30 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[Logging_25_05_26.WeatherForecast] Get() on controller Logging_25_05_26.Controllers.WeatherForecastController (Logging_25_05_26).
+2026-05-25 12:57:58.347 +05:30 [INF] Executing ObjectResult, writing value of type 'Logging_25_05_26.WeatherForecast[]'.
+2026-05-25 12:57:58.456 +05:30 [INF] Executed action Logging_25_05_26.Controllers.WeatherForecastController.Get (Logging_25_05_26) in 128.916ms
+2026-05-25 12:57:58.457 +05:30 [INF] Executed endpoint 'Logging_25_05_26.Controllers.WeatherForecastController.Get (Logging_25_05_26)'
+2026-05-25 12:57:58.467 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5024/weatherforecast - 200 null application/json; charset=utf-8 818.0023ms
+2026-05-25 12:57:58.571 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5024/favicon.ico - null null
+2026-05-25 12:57:58.576 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5024/favicon.ico - 404 0 null 6.5978ms
+2026-05-25 12:57:58.580 +05:30 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5024/favicon.ico, Response status code: 404
+2026-05-25 12:58:42.384 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5024/api/exam - null null
+2026-05-25 12:58:42.388 +05:30 [INF] Executing endpoint 'Logging_25_05_26.Controllers.ExamController.Get (Logging_25_05_26)'
+2026-05-25 12:58:42.391 +05:30 [INF] Route matched with {action = "Get", controller = "Exam"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[System.String] Get() on controller Logging_25_05_26.Controllers.ExamController (Logging_25_05_26).
+2026-05-25 12:58:42.406 +05:30 [INF] Info:Get REquest received for ExamController:25-05-2026 12:58:42
+2026-05-25 12:58:42.407 +05:30 [INF] Executing ObjectResult, writing value of type 'System.String[]'.
+2026-05-25 12:58:42.408 +05:30 [INF] Executed action Logging_25_05_26.Controllers.ExamController.Get (Logging_25_05_26) in 16.7851ms
+2026-05-25 12:58:42.408 +05:30 [INF] Executed endpoint 'Logging_25_05_26.Controllers.ExamController.Get (Logging_25_05_26)'
+2026-05-25 12:58:42.409 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5024/api/exam - 200 null application/json; charset=utf-8 25.3514ms

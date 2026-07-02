@@ -1,0 +1,13 @@
+﻿using StaffService.Models;
+
+namespace StaffService.Helpers
+{
+    public class JWTHelper
+    {
+        public static string GenerateToken(Staff Staff)
+        {
+            
+            return "generated_jwt_token_for_" + email;
+        }
+    }
+}

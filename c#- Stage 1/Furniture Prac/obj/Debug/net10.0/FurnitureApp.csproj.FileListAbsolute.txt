@@ -1,0 +1,14 @@
+C:\mukul\INTTZ2026DN01\c#\FurnitureApp\bin\Debug\net10.0\FurnitureApp.exe
+C:\mukul\INTTZ2026DN01\c#\FurnitureApp\bin\Debug\net10.0\FurnitureApp.deps.json
+C:\mukul\INTTZ2026DN01\c#\FurnitureApp\bin\Debug\net10.0\FurnitureApp.runtimeconfig.json
+C:\mukul\INTTZ2026DN01\c#\FurnitureApp\bin\Debug\net10.0\FurnitureApp.dll
+C:\mukul\INTTZ2026DN01\c#\FurnitureApp\bin\Debug\net10.0\FurnitureApp.pdb
+C:\mukul\INTTZ2026DN01\c#\FurnitureApp\obj\Debug\net10.0\FurnitureApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\mukul\INTTZ2026DN01\c#\FurnitureApp\obj\Debug\net10.0\FurnitureApp.AssemblyInfoInputs.cache
+C:\mukul\INTTZ2026DN01\c#\FurnitureApp\obj\Debug\net10.0\FurnitureApp.AssemblyInfo.cs
+C:\mukul\INTTZ2026DN01\c#\FurnitureApp\obj\Debug\net10.0\FurnitureApp.csproj.CoreCompileInputs.cache
+C:\mukul\INTTZ2026DN01\c#\FurnitureApp\obj\Debug\net10.0\FurnitureApp.dll
+C:\mukul\INTTZ2026DN01\c#\FurnitureApp\obj\Debug\net10.0\refint\FurnitureApp.dll
+C:\mukul\INTTZ2026DN01\c#\FurnitureApp\obj\Debug\net10.0\FurnitureApp.pdb
+C:\mukul\INTTZ2026DN01\c#\FurnitureApp\obj\Debug\net10.0\FurnitureApp.genruntimeconfig.cache
+C:\mukul\INTTZ2026DN01\c#\FurnitureApp\obj\Debug\net10.0\ref\FurnitureApp.dll

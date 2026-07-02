@@ -1,0 +1,4 @@
+C:\mukul\c#\Day9\kashtaPad\obj\Release\net10.0\kashtaPad.GeneratedMSBuildEditorConfig.editorconfig
+C:\mukul\c#\Day9\kashtaPad\obj\Release\net10.0\kashtaPad.AssemblyInfoInputs.cache
+C:\mukul\c#\Day9\kashtaPad\obj\Release\net10.0\kashtaPad.AssemblyInfo.cs
+C:\mukul\c#\Day9\kashtaPad\obj\Release\net10.0\kashtaPad.csproj.CoreCompileInputs.cache

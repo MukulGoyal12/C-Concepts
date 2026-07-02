@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AuctionAPI/AuctionAPI.csproj" Id="e668a17a-3f12-41c0-91fb-fdc2df463877" />
+  <Project Path="OLX/OLX.csproj" Id="98cd68d0-e449-4fb5-a29a-6cd84522d617" />
+</Solution>

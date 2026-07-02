@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\AuctionAPI",
+    "\\AuctionAPI\\Controllers",
+    "\\AuctionAPI\\Models"
+  ],
+  "SelectedNode": "\\AuctionAPI\\Models\\AuctionContext.cs",
+  "PreviewInSolutionExplorer": false
+}

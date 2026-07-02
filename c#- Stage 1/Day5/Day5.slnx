@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="BankLibrary/BankLibrary.csproj" />
+  <Project Path="ICICIBankApp/ICICIBankApp.csproj" />
+  <Project Path="SBIApp/SBIApp.csproj" />
+  <Project Path="SealedDemo/SealedDemo.csproj" />
+</Solution>

@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Tomato/Tomato.csproj" />
+  <Project Path="TomatoTest/TomatoTest.csproj" />
+  <Project Path="TomatoWebApp/TomatoWebApp.csproj" />
+</Solution>

@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Open Close Principles/Open Close Principles.csproj" />
+  <Project Path="Single Responsibility/Single Responsibility.csproj" />
+</Solution>

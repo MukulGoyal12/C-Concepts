@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="GenericDemo/GenericDemo.csproj" />
+  <Project Path="InterfaceEx/InterfaceTopDownApproach.csproj" />
+</Solution>

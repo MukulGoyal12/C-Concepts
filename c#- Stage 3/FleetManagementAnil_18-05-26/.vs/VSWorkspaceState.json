@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\VehicleService",
+    "\\VehicleService\\Controllers",
+    "\\VehicleService\\Models"
+  ],
+  "SelectedNode": "\\VehicleService\\Controllers\\VehicleController.cs",
+  "PreviewInSolutionExplorer": false
+}

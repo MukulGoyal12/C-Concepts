@@ -1,0 +1,300 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\mukul\\c#- Stage 3\\FleetManagementAnil_18-05-26\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EE5F046-D1F8-1D7E-105F-41E7AA488FC4}|MaintenanceService\\MaintenanceService.csproj|c:\\mukul\\c#- stage 3\\fleetmanagementanil_18-05-26\\maintenanceservice\\data\\models\\maintenancetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EE5F046-D1F8-1D7E-105F-41E7AA488FC4}|MaintenanceService\\MaintenanceService.csproj|solutionrelative:maintenanceservice\\data\\models\\maintenancetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C134AAD9-F9BB-0698-2323-512D9BD37B34}|StaffService\\StaffService.csproj|c:\\mukul\\c#- stage 3\\fleetmanagementanil_18-05-26\\staffservice\\helpers\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C134AAD9-F9BB-0698-2323-512D9BD37B34}|StaffService\\StaffService.csproj|solutionrelative:staffservice\\helpers\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C134AAD9-F9BB-0698-2323-512D9BD37B34}|StaffService\\StaffService.csproj|c:\\mukul\\c#- stage 3\\fleetmanagementanil_18-05-26\\staffservice\\helpers\\tokenmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C134AAD9-F9BB-0698-2323-512D9BD37B34}|StaffService\\StaffService.csproj|solutionrelative:staffservice\\helpers\\tokenmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EE5F046-D1F8-1D7E-105F-41E7AA488FC4}|MaintenanceService\\MaintenanceService.csproj|c:\\mukul\\c#- stage 3\\fleetmanagementanil_18-05-26\\maintenanceservice\\controllers\\maintenancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EE5F046-D1F8-1D7E-105F-41E7AA488FC4}|MaintenanceService\\MaintenanceService.csproj|solutionrelative:maintenanceservice\\controllers\\maintenancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EE5F046-D1F8-1D7E-105F-41E7AA488FC4}|MaintenanceService\\MaintenanceService.csproj|c:\\mukul\\c#- stage 3\\fleetmanagementanil_18-05-26\\maintenanceservice\\controllers\\maintenancetypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EE5F046-D1F8-1D7E-105F-41E7AA488FC4}|MaintenanceService\\MaintenanceService.csproj|solutionrelative:maintenanceservice\\controllers\\maintenancetypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EE5F046-D1F8-1D7E-105F-41E7AA488FC4}|MaintenanceService\\MaintenanceService.csproj|c:\\mukul\\c#- stage 3\\fleetmanagementanil_18-05-26\\maintenanceservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EE5F046-D1F8-1D7E-105F-41E7AA488FC4}|MaintenanceService\\MaintenanceService.csproj|solutionrelative:maintenanceservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EE5F046-D1F8-1D7E-105F-41E7AA488FC4}|MaintenanceService\\MaintenanceService.csproj|c:\\mukul\\c#- stage 3\\fleetmanagementanil_18-05-26\\maintenanceservice\\data\\models\\maintenanceschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EE5F046-D1F8-1D7E-105F-41E7AA488FC4}|MaintenanceService\\MaintenanceService.csproj|solutionrelative:maintenanceservice\\data\\models\\maintenanceschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EE5F046-D1F8-1D7E-105F-41E7AA488FC4}|MaintenanceService\\MaintenanceService.csproj|c:\\mukul\\c#- stage 3\\fleetmanagementanil_18-05-26\\maintenanceservice\\data\\models\\maintenacedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EE5F046-D1F8-1D7E-105F-41E7AA488FC4}|MaintenanceService\\MaintenanceService.csproj|solutionrelative:maintenanceservice\\data\\models\\maintenacedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E47A94-3C1F-61E0-D206-E4B7501BF371}|VehicleService\\VehicleService.csproj|c:\\mukul\\c#- stage 3\\fleetmanagementanil_18-05-26\\vehicleservice\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E47A94-3C1F-61E0-D206-E4B7501BF371}|VehicleService\\VehicleService.csproj|solutionrelative:vehicleservice\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E47A94-3C1F-61E0-D206-E4B7501BF371}|VehicleService\\VehicleService.csproj|c:\\mukul\\c#- stage 3\\fleetmanagementanil_18-05-26\\vehicleservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E47A94-3C1F-61E0-D206-E4B7501BF371}|VehicleService\\VehicleService.csproj|solutionrelative:vehicleservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E47A94-3C1F-61E0-D206-E4B7501BF371}|VehicleService\\VehicleService.csproj|c:\\mukul\\c#- stage 3\\fleetmanagementanil_18-05-26\\vehicleservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{26E47A94-3C1F-61E0-D206-E4B7501BF371}|VehicleService\\VehicleService.csproj|solutionrelative:vehicleservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EE5F046-D1F8-1D7E-105F-41E7AA488FC4}|MaintenanceService\\MaintenanceService.csproj|c:\\mukul\\c#- stage 3\\fleetmanagementanil_18-05-26\\maintenanceservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7EE5F046-D1F8-1D7E-105F-41E7AA488FC4}|MaintenanceService\\MaintenanceService.csproj|solutionrelative:maintenanceservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C134AAD9-F9BB-0698-2323-512D9BD37B34}|StaffService\\StaffService.csproj|c:\\mukul\\c#- stage 3\\fleetmanagementanil_18-05-26\\staffservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C134AAD9-F9BB-0698-2323-512D9BD37B34}|StaffService\\StaffService.csproj|solutionrelative:staffservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E47A94-3C1F-61E0-D206-E4B7501BF371}|VehicleService\\VehicleService.csproj|c:\\mukul\\c#- stage 3\\fleetmanagementanil_18-05-26\\vehicleservice\\models\\vehicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E47A94-3C1F-61E0-D206-E4B7501BF371}|VehicleService\\VehicleService.csproj|solutionrelative:vehicleservice\\models\\vehicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E47A94-3C1F-61E0-D206-E4B7501BF371}|VehicleService\\VehicleService.csproj|c:\\mukul\\c#- stage 3\\fleetmanagementanil_18-05-26\\vehicleservice\\models\\vehiclecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E47A94-3C1F-61E0-D206-E4B7501BF371}|VehicleService\\VehicleService.csproj|solutionrelative:vehicleservice\\models\\vehiclecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E47A94-3C1F-61E0-D206-E4B7501BF371}|VehicleService\\VehicleService.csproj|c:\\mukul\\c#- stage 3\\fleetmanagementanil_18-05-26\\vehicleservice\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E47A94-3C1F-61E0-D206-E4B7501BF371}|VehicleService\\VehicleService.csproj|solutionrelative:vehicleservice\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TokenMessage.cs",
+              "DocumentMoniker": "C:\\mukul\\c#- Stage 3\\FleetManagementAnil_18-05-26\\StaffService\\Helpers\\TokenMessage.cs",
+              "RelativeDocumentMoniker": "StaffService\\Helpers\\TokenMessage.cs",
+              "ToolTip": "C:\\mukul\\c#- Stage 3\\FleetManagementAnil_18-05-26\\StaffService\\Helpers\\TokenMessage.cs",
+              "RelativeToolTip": "StaffService\\Helpers\\TokenMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T11:59:21.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JWTHelper.cs",
+              "DocumentMoniker": "C:\\mukul\\c#- Stage 3\\FleetManagementAnil_18-05-26\\StaffService\\Helpers\\JWTHelper.cs",
+              "RelativeDocumentMoniker": "StaffService\\Helpers\\JWTHelper.cs",
+              "ToolTip": "C:\\mukul\\c#- Stage 3\\FleetManagementAnil_18-05-26\\StaffService\\Helpers\\JWTHelper.cs",
+              "RelativeToolTip": "StaffService\\Helpers\\JWTHelper.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T11:58:50.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MaintenanceTypeController.cs",
+              "DocumentMoniker": "C:\\mukul\\c#- Stage 3\\FleetManagementAnil_18-05-26\\MaintenanceService\\Controllers\\MaintenanceTypeController.cs",
+              "RelativeDocumentMoniker": "MaintenanceService\\Controllers\\MaintenanceTypeController.cs",
+              "ToolTip": "C:\\mukul\\c#- Stage 3\\FleetManagementAnil_18-05-26\\MaintenanceService\\Controllers\\MaintenanceTypeController.cs",
+              "RelativeToolTip": "MaintenanceService\\Controllers\\MaintenanceTypeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T11:25:43.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\mukul\\c#- Stage 3\\FleetManagementAnil_18-05-26\\MaintenanceService\\Program.cs",
+              "RelativeDocumentMoniker": "MaintenanceService\\Program.cs",
+              "ToolTip": "C:\\mukul\\c#- Stage 3\\FleetManagementAnil_18-05-26\\MaintenanceService\\Program.cs",
+              "RelativeToolTip": "MaintenanceService\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T11:25:34.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MaintenanceType.cs",
+              "DocumentMoniker": "C:\\mukul\\c#- Stage 3\\FleetManagementAnil_18-05-26\\MaintenanceService\\Data\\Models\\MaintenanceType.cs",
+              "RelativeDocumentMoniker": "MaintenanceService\\Data\\Models\\MaintenanceType.cs",
+              "ToolTip": "C:\\mukul\\c#- Stage 3\\FleetManagementAnil_18-05-26\\MaintenanceService\\Data\\Models\\MaintenanceType.cs",
+              "RelativeToolTip": "MaintenanceService\\Data\\Models\\MaintenanceType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T11:25:16.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MaintenanceSchedule.cs",
+              "DocumentMoniker": "C:\\mukul\\c#- Stage 3\\FleetManagementAnil_18-05-26\\MaintenanceService\\Data\\Models\\MaintenanceSchedule.cs",
+              "RelativeDocumentMoniker": "MaintenanceService\\Data\\Models\\MaintenanceSchedule.cs",
+              "ToolTip": "C:\\mukul\\c#- Stage 3\\FleetManagementAnil_18-05-26\\MaintenanceService\\Data\\Models\\MaintenanceSchedule.cs",
+              "RelativeToolTip": "MaintenanceService\\Data\\Models\\MaintenanceSchedule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T11:25:09.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MaintenanceController.cs",
+              "DocumentMoniker": "C:\\mukul\\c#- Stage 3\\FleetManagementAnil_18-05-26\\MaintenanceService\\Controllers\\MaintenanceController.cs",
+              "RelativeDocumentMoniker": "MaintenanceService\\Controllers\\MaintenanceController.cs",
+              "ToolTip": "C:\\mukul\\c#- Stage 3\\FleetManagementAnil_18-05-26\\MaintenanceService\\Controllers\\MaintenanceController.cs",
+              "RelativeToolTip": "MaintenanceService\\Controllers\\MaintenanceController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T10:37:01.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MaintenaceDbContext.cs",
+              "DocumentMoniker": "C:\\mukul\\c#- Stage 3\\FleetManagementAnil_18-05-26\\MaintenanceService\\Data\\Models\\MaintenaceDbContext.cs",
+              "RelativeDocumentMoniker": "MaintenanceService\\Data\\Models\\MaintenaceDbContext.cs",
+              "ToolTip": "C:\\mukul\\c#- Stage 3\\FleetManagementAnil_18-05-26\\MaintenanceService\\Data\\Models\\MaintenaceDbContext.cs",
+              "RelativeToolTip": "MaintenanceService\\Data\\Models\\MaintenaceDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T11:25:05.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\mukul\\c#- Stage 3\\FleetManagementAnil_18-05-26\\StaffService\\appsettings.json",
+              "RelativeDocumentMoniker": "StaffService\\appsettings.json",
+              "ToolTip": "C:\\mukul\\c#- Stage 3\\FleetManagementAnil_18-05-26\\StaffService\\appsettings.json",
+              "RelativeToolTip": "StaffService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-21T11:23:28.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\mukul\\c#- Stage 3\\FleetManagementAnil_18-05-26\\MaintenanceService\\appsettings.json",
+              "RelativeDocumentMoniker": "MaintenanceService\\appsettings.json",
+              "ToolTip": "C:\\mukul\\c#- Stage 3\\FleetManagementAnil_18-05-26\\MaintenanceService\\appsettings.json",
+              "RelativeToolTip": "MaintenanceService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-21T11:23:21.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\mukul\\c#- Stage 3\\FleetManagementAnil_18-05-26\\VehicleService\\appsettings.json",
+              "RelativeDocumentMoniker": "VehicleService\\appsettings.json",
+              "ToolTip": "C:\\mukul\\c#- Stage 3\\FleetManagementAnil_18-05-26\\VehicleService\\appsettings.json",
+              "RelativeToolTip": "VehicleService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-21T11:22:33.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\mukul\\c#- Stage 3\\FleetManagementAnil_18-05-26\\VehicleService\\Program.cs",
+              "RelativeDocumentMoniker": "VehicleService\\Program.cs",
+              "ToolTip": "C:\\mukul\\c#- Stage 3\\FleetManagementAnil_18-05-26\\VehicleService\\Program.cs",
+              "RelativeToolTip": "VehicleService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T11:15:56.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "VehicleDTO.cs",
+              "DocumentMoniker": "C:\\mukul\\c#- Stage 3\\FleetManagementAnil_18-05-26\\VehicleService\\Models\\VehicleDTO.cs",
+              "RelativeDocumentMoniker": "VehicleService\\Models\\VehicleDTO.cs",
+              "ToolTip": "C:\\mukul\\c#- Stage 3\\FleetManagementAnil_18-05-26\\VehicleService\\Models\\VehicleDTO.cs",
+              "RelativeToolTip": "VehicleService\\Models\\VehicleDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T10:46:29.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VehicleController.cs",
+              "DocumentMoniker": "C:\\mukul\\c#- Stage 3\\FleetManagementAnil_18-05-26\\VehicleService\\Controllers\\VehicleController.cs",
+              "RelativeDocumentMoniker": "VehicleService\\Controllers\\VehicleController.cs",
+              "ToolTip": "C:\\mukul\\c#- Stage 3\\FleetManagementAnil_18-05-26\\VehicleService\\Controllers\\VehicleController.cs",
+              "RelativeToolTip": "VehicleService\\Controllers\\VehicleController.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAmwJ4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T10:22:18.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "VehicleContext.cs",
+              "DocumentMoniker": "C:\\mukul\\c#- Stage 3\\FleetManagementAnil_18-05-26\\VehicleService\\Models\\VehicleContext.cs",
+              "RelativeDocumentMoniker": "VehicleService\\Models\\VehicleContext.cs",
+              "ToolTip": "C:\\mukul\\c#- Stage 3\\FleetManagementAnil_18-05-26\\VehicleService\\Models\\VehicleContext.cs",
+              "RelativeToolTip": "VehicleService\\Models\\VehicleContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T10:46:04.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\mukul\\c#- Stage 3\\FleetManagementAnil_18-05-26\\VehicleService\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "VehicleService\\Models\\Vehicle.cs",
+              "ToolTip": "C:\\mukul\\c#- Stage 3\\FleetManagementAnil_18-05-26\\VehicleService\\Models\\Vehicle.cs",
+              "RelativeToolTip": "VehicleService\\Models\\Vehicle.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T10:45:53.19Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

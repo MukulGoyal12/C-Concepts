@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\mukul\\c#\\Day7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A350AE74-46EE-0CE0-A0D9-9B5A68E28EA9}|GenericDemo\\GenericDemo.csproj|c:\\mukul\\c#\\day7\\genericdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A350AE74-46EE-0CE0-A0D9-9B5A68E28EA9}|GenericDemo\\GenericDemo.csproj|solutionrelative:genericdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A350AE74-46EE-0CE0-A0D9-9B5A68E28EA9}|GenericDemo\\GenericDemo.csproj|c:\\mukul\\c#\\day7\\genericdemo\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A350AE74-46EE-0CE0-A0D9-9B5A68E28EA9}|GenericDemo\\GenericDemo.csproj|solutionrelative:genericdemo\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A200336-2834-55C7-1FD2-12909A32BCA9}|InterfaceEx\\InterfaceTopDownApproach.csproj|c:\\mukul\\c#\\day7\\interfaceex\\flat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A200336-2834-55C7-1FD2-12909A32BCA9}|InterfaceEx\\InterfaceTopDownApproach.csproj|solutionrelative:interfaceex\\flat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A200336-2834-55C7-1FD2-12909A32BCA9}|InterfaceEx\\InterfaceTopDownApproach.csproj|c:\\mukul\\c#\\day7\\interfaceex\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A200336-2834-55C7-1FD2-12909A32BCA9}|InterfaceEx\\InterfaceTopDownApproach.csproj|solutionrelative:interfaceex\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A200336-2834-55C7-1FD2-12909A32BCA9}|InterfaceEx\\InterfaceTopDownApproach.csproj|c:\\mukul\\c#\\day7\\interfaceex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A200336-2834-55C7-1FD2-12909A32BCA9}|InterfaceEx\\InterfaceTopDownApproach.csproj|solutionrelative:interfaceex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{02c9407d-69f0-4910-b5c7-0dff86947e95}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\mukul\\c#\\Day7\\GenericDemo\\Item.cs",
+              "RelativeDocumentMoniker": "GenericDemo\\Item.cs",
+              "ToolTip": "C:\\mukul\\c#\\Day7\\GenericDemo\\Item.cs",
+              "RelativeToolTip": "GenericDemo\\Item.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwCwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T08:39:19.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\mukul\\c#\\Day7\\GenericDemo\\Program.cs",
+              "RelativeDocumentMoniker": "GenericDemo\\Program.cs",
+              "ToolTip": "C:\\mukul\\c#\\Day7\\GenericDemo\\Program.cs",
+              "RelativeToolTip": "GenericDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T08:37:42.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Flat.cs",
+              "DocumentMoniker": "C:\\mukul\\c#\\Day7\\InterfaceEx\\Flat.cs",
+              "RelativeDocumentMoniker": "InterfaceEx\\Flat.cs",
+              "ToolTip": "C:\\mukul\\c#\\Day7\\InterfaceEx\\Flat.cs",
+              "RelativeToolTip": "InterfaceEx\\Flat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T04:59:06.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Building.cs",
+              "DocumentMoniker": "C:\\mukul\\c#\\Day7\\InterfaceEx\\Building.cs",
+              "RelativeDocumentMoniker": "InterfaceEx\\Building.cs",
+              "ToolTip": "C:\\mukul\\c#\\Day7\\InterfaceEx\\Building.cs",
+              "RelativeToolTip": "InterfaceEx\\Building.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T04:58:53.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\mukul\\c#\\Day7\\InterfaceEx\\Program.cs",
+              "RelativeDocumentMoniker": "InterfaceEx\\Program.cs",
+              "ToolTip": "C:\\mukul\\c#\\Day7\\InterfaceEx\\Program.cs",
+              "RelativeToolTip": "InterfaceEx\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T03:57:30.975Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

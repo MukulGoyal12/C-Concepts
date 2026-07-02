@@ -1,0 +1,14 @@
+C:\mukul\c#\Day8\CollectionsDemo\bin\Debug\net10.0\CollectionsDemo.exe
+C:\mukul\c#\Day8\CollectionsDemo\bin\Debug\net10.0\CollectionsDemo.deps.json
+C:\mukul\c#\Day8\CollectionsDemo\bin\Debug\net10.0\CollectionsDemo.runtimeconfig.json
+C:\mukul\c#\Day8\CollectionsDemo\bin\Debug\net10.0\CollectionsDemo.dll
+C:\mukul\c#\Day8\CollectionsDemo\bin\Debug\net10.0\CollectionsDemo.pdb
+C:\mukul\c#\Day8\CollectionsDemo\obj\Debug\net10.0\CollectionsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\mukul\c#\Day8\CollectionsDemo\obj\Debug\net10.0\CollectionsDemo.AssemblyInfoInputs.cache
+C:\mukul\c#\Day8\CollectionsDemo\obj\Debug\net10.0\CollectionsDemo.AssemblyInfo.cs
+C:\mukul\c#\Day8\CollectionsDemo\obj\Debug\net10.0\CollectionsDemo.csproj.CoreCompileInputs.cache
+C:\mukul\c#\Day8\CollectionsDemo\obj\Debug\net10.0\CollectionsDemo.dll
+C:\mukul\c#\Day8\CollectionsDemo\obj\Debug\net10.0\refint\CollectionsDemo.dll
+C:\mukul\c#\Day8\CollectionsDemo\obj\Debug\net10.0\CollectionsDemo.pdb
+C:\mukul\c#\Day8\CollectionsDemo\obj\Debug\net10.0\CollectionsDemo.genruntimeconfig.cache
+C:\mukul\c#\Day8\CollectionsDemo\obj\Debug\net10.0\ref\CollectionsDemo.dll

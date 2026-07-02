@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .container {
+            display: grid;
+            height: 97vh;
+            width: 99%;
+            grid-template-areas: "header header header header"
+                "section main main adbar"
+                "section main main adbar"
+                "section main main adbar"
+                "section main main adbar"
+                "footer footer footer footer";
+        }
+
+        header {
+            background-color: whitesmoke;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        ul li {
+            display: inline;
+            padding: 13px;
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                grid-template-areas:
+                    "header"
+                    "main"
+                    "section"
+                    "adbar"
+                    "footer";
+            }
+            
+            ul li {
+                display: block;
+            }
+        }
+
+        /* @media (max-width:1024px){
+            .container{
+                grid-template-areas: "header header header header"
+                                    "main main main main"
+                                    "main main main main"
+                                    "section section section section "
+                                    "adbar adbar adbar adbar"
+                                    "footer footer footer footer";
+            }
+        } */
+    </style>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+</head>
+
+<body>
+    <div class="container">
+        <header style="grid-area:header;">
+            Swiggy
+            <ul>
+                <li><button class="btn btn-primary">Login</button> </li>
+                <li>Register</li>
+                <li>Show Orders</li>
+            </ul>
+        </header>
+        <section class="card" style="grid-area: section; background-color: yellowgreen;">section 1</section>
+        <main style="grid-area: main; background-color:bisque">Main Content</main>
+        <section style="grid-area: adbar; background-color:aqua">section 3</section>
+        <footer style="grid-area: footer; background-color: aliceblue;">Copyright</footer>
+    </div>
+</body>
+
+</html>

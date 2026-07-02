@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\mukul\\c#\\Day5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20EEBC1F-3738-CAC4-921E-99175B76C19F}|SBIApp\\SBIApp.csproj|c:\\mukul\\c#\\day5\\sbiapp\\sbiinterest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20EEBC1F-3738-CAC4-921E-99175B76C19F}|SBIApp\\SBIApp.csproj|solutionrelative:sbiapp\\sbiinterest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B8D5C8-A0A0-C324-BDDB-78D4623FBB63}|ICICIBankApp\\ICICIBankApp.csproj|c:\\mukul\\c#\\day5\\icicibankapp\\iciciinterest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B8D5C8-A0A0-C324-BDDB-78D4623FBB63}|ICICIBankApp\\ICICIBankApp.csproj|solutionrelative:icicibankapp\\iciciinterest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67506983-E386-5B74-ECB1-6C2FCE644D47}|BankLibrary\\BankLibrary.csproj|c:\\mukul\\c#\\day5\\banklibrary\\banklibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{67506983-E386-5B74-ECB1-6C2FCE644D47}|BankLibrary\\BankLibrary.csproj|solutionrelative:banklibrary\\banklibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67506983-E386-5B74-ECB1-6C2FCE644D47}|BankLibrary\\BankLibrary.csproj|c:\\mukul\\c#\\day5\\banklibrary\\iinterest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67506983-E386-5B74-ECB1-6C2FCE644D47}|BankLibrary\\BankLibrary.csproj|solutionrelative:banklibrary\\iinterest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67506983-E386-5B74-ECB1-6C2FCE644D47}|BankLibrary\\BankLibrary.csproj|c:\\mukul\\c#\\day5\\banklibrary\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67506983-E386-5B74-ECB1-6C2FCE644D47}|BankLibrary\\BankLibrary.csproj|solutionrelative:banklibrary\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20EEBC1F-3738-CAC4-921E-99175B76C19F}|SBIApp\\SBIApp.csproj|c:\\mukul\\c#\\day5\\sbiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20EEBC1F-3738-CAC4-921E-99175B76C19F}|SBIApp\\SBIApp.csproj|solutionrelative:sbiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B8D5C8-A0A0-C324-BDDB-78D4623FBB63}|ICICIBankApp\\ICICIBankApp.csproj|c:\\mukul\\c#\\day5\\icicibankapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B8D5C8-A0A0-C324-BDDB-78D4623FBB63}|ICICIBankApp\\ICICIBankApp.csproj|solutionrelative:icicibankapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B8D5C8-A0A0-C324-BDDB-78D4623FBB63}|ICICIBankApp\\ICICIBankApp.csproj|c:\\mukul\\c#\\day5\\icicibankapp\\icicibankapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{93B8D5C8-A0A0-C324-BDDB-78D4623FBB63}|ICICIBankApp\\ICICIBankApp.csproj|solutionrelative:icicibankapp\\icicibankapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SBIInterest.cs",
+              "DocumentMoniker": "C:\\mukul\\c#\\Day5\\SBIApp\\SBIInterest.cs",
+              "RelativeDocumentMoniker": "SBIApp\\SBIInterest.cs",
+              "ToolTip": "C:\\mukul\\c#\\Day5\\SBIApp\\SBIInterest.cs",
+              "RelativeToolTip": "SBIApp\\SBIInterest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T12:27:57.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BankLibrary.csproj",
+              "DocumentMoniker": "C:\\mukul\\c#\\Day5\\BankLibrary\\BankLibrary.csproj",
+              "RelativeDocumentMoniker": "BankLibrary\\BankLibrary.csproj",
+              "ToolTip": "C:\\mukul\\c#\\Day5\\BankLibrary\\BankLibrary.csproj",
+              "RelativeToolTip": "BankLibrary\\BankLibrary.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-06T12:24:03.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IInterest.cs",
+              "DocumentMoniker": "C:\\mukul\\c#\\Day5\\BankLibrary\\IInterest.cs",
+              "RelativeDocumentMoniker": "BankLibrary\\IInterest.cs",
+              "ToolTip": "C:\\mukul\\c#\\Day5\\BankLibrary\\IInterest.cs",
+              "RelativeToolTip": "BankLibrary\\IInterest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T11:15:47.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\mukul\\c#\\Day5\\BankLibrary\\BankAccount.cs",
+              "RelativeDocumentMoniker": "BankLibrary\\BankAccount.cs",
+              "ToolTip": "C:\\mukul\\c#\\Day5\\BankLibrary\\BankAccount.cs",
+              "RelativeToolTip": "BankLibrary\\BankAccount.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T11:15:43.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IciciInterest.cs",
+              "DocumentMoniker": "C:\\mukul\\c#\\Day5\\ICICIBankApp\\IciciInterest.cs",
+              "RelativeDocumentMoniker": "ICICIBankApp\\IciciInterest.cs",
+              "ToolTip": "C:\\mukul\\c#\\Day5\\ICICIBankApp\\IciciInterest.cs",
+              "RelativeToolTip": "ICICIBankApp\\IciciInterest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T07:14:05.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\mukul\\c#\\Day5\\SBIApp\\Program.cs",
+              "RelativeDocumentMoniker": "SBIApp\\Program.cs",
+              "ToolTip": "C:\\mukul\\c#\\Day5\\SBIApp\\Program.cs",
+              "RelativeToolTip": "SBIApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T07:12:04.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\mukul\\c#\\Day5\\ICICIBankApp\\Program.cs",
+              "RelativeDocumentMoniker": "ICICIBankApp\\Program.cs",
+              "ToolTip": "C:\\mukul\\c#\\Day5\\ICICIBankApp\\Program.cs",
+              "RelativeToolTip": "ICICIBankApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T07:12:26.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICICIBankApp.csproj",
+              "DocumentMoniker": "C:\\mukul\\c#\\Day5\\ICICIBankApp\\ICICIBankApp.csproj",
+              "RelativeDocumentMoniker": "ICICIBankApp\\ICICIBankApp.csproj",
+              "ToolTip": "C:\\mukul\\c#\\Day5\\ICICIBankApp\\ICICIBankApp.csproj",
+              "RelativeToolTip": "ICICIBankApp\\ICICIBankApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-06T12:00:30.698Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

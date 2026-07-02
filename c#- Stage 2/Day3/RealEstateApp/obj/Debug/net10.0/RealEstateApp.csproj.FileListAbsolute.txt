@@ -1,0 +1,36 @@
+C:\mukul\c# - Stage 2\Day3\RealEstateApp\bin\Debug\net10.0\RealEstateApp.exe
+C:\mukul\c# - Stage 2\Day3\RealEstateApp\bin\Debug\net10.0\RealEstateApp.deps.json
+C:\mukul\c# - Stage 2\Day3\RealEstateApp\bin\Debug\net10.0\RealEstateApp.runtimeconfig.json
+C:\mukul\c# - Stage 2\Day3\RealEstateApp\bin\Debug\net10.0\RealEstateApp.dll
+C:\mukul\c# - Stage 2\Day3\RealEstateApp\bin\Debug\net10.0\RealEstateApp.pdb
+C:\mukul\c# - Stage 2\Day3\RealEstateApp\bin\Debug\net10.0\RealEstate.dll
+C:\mukul\c# - Stage 2\Day3\RealEstateApp\bin\Debug\net10.0\RealEstate.pdb
+C:\mukul\c# - Stage 2\Day3\RealEstateApp\obj\Debug\net10.0\RealEstateApp.csproj.AssemblyReference.cache
+C:\mukul\c# - Stage 2\Day3\RealEstateApp\obj\Debug\net10.0\RealEstateApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\mukul\c# - Stage 2\Day3\RealEstateApp\obj\Debug\net10.0\RealEstateApp.AssemblyInfoInputs.cache
+C:\mukul\c# - Stage 2\Day3\RealEstateApp\obj\Debug\net10.0\RealEstateApp.AssemblyInfo.cs
+C:\mukul\c# - Stage 2\Day3\RealEstateApp\obj\Debug\net10.0\RealEstateApp.csproj.CoreCompileInputs.cache
+C:\mukul\c# - Stage 2\Day3\RealEstateApp\obj\Debug\net10.0\RealEsta.27EDF444.Up2Date
+C:\mukul\c# - Stage 2\Day3\RealEstateApp\obj\Debug\net10.0\RealEstateApp.dll
+C:\mukul\c# - Stage 2\Day3\RealEstateApp\obj\Debug\net10.0\refint\RealEstateApp.dll
+C:\mukul\c# - Stage 2\Day3\RealEstateApp\obj\Debug\net10.0\RealEstateApp.pdb
+C:\mukul\c# - Stage 2\Day3\RealEstateApp\obj\Debug\net10.0\RealEstateApp.genruntimeconfig.cache
+C:\mukul\c# - Stage 2\Day3\RealEstateApp\obj\Debug\net10.0\ref\RealEstateApp.dll
+C:\mukul\c#- Stage 2\Day3\RealEstateApp\bin\Debug\net10.0\RealEstateApp.exe
+C:\mukul\c#- Stage 2\Day3\RealEstateApp\bin\Debug\net10.0\RealEstateApp.deps.json
+C:\mukul\c#- Stage 2\Day3\RealEstateApp\bin\Debug\net10.0\RealEstateApp.runtimeconfig.json
+C:\mukul\c#- Stage 2\Day3\RealEstateApp\bin\Debug\net10.0\RealEstateApp.dll
+C:\mukul\c#- Stage 2\Day3\RealEstateApp\bin\Debug\net10.0\RealEstateApp.pdb
+C:\mukul\c#- Stage 2\Day3\RealEstateApp\bin\Debug\net10.0\RealEstate.dll
+C:\mukul\c#- Stage 2\Day3\RealEstateApp\bin\Debug\net10.0\RealEstate.pdb
+C:\mukul\c#- Stage 2\Day3\RealEstateApp\obj\Debug\net10.0\RealEstateApp.csproj.AssemblyReference.cache
+C:\mukul\c#- Stage 2\Day3\RealEstateApp\obj\Debug\net10.0\RealEstateApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\mukul\c#- Stage 2\Day3\RealEstateApp\obj\Debug\net10.0\RealEstateApp.AssemblyInfoInputs.cache
+C:\mukul\c#- Stage 2\Day3\RealEstateApp\obj\Debug\net10.0\RealEstateApp.AssemblyInfo.cs
+C:\mukul\c#- Stage 2\Day3\RealEstateApp\obj\Debug\net10.0\RealEstateApp.csproj.CoreCompileInputs.cache
+C:\mukul\c#- Stage 2\Day3\RealEstateApp\obj\Debug\net10.0\RealEsta.27EDF444.Up2Date
+C:\mukul\c#- Stage 2\Day3\RealEstateApp\obj\Debug\net10.0\RealEstateApp.dll
+C:\mukul\c#- Stage 2\Day3\RealEstateApp\obj\Debug\net10.0\refint\RealEstateApp.dll
+C:\mukul\c#- Stage 2\Day3\RealEstateApp\obj\Debug\net10.0\RealEstateApp.pdb
+C:\mukul\c#- Stage 2\Day3\RealEstateApp\obj\Debug\net10.0\RealEstateApp.genruntimeconfig.cache
+C:\mukul\c#- Stage 2\Day3\RealEstateApp\obj\Debug\net10.0\ref\RealEstateApp.dll

@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "AuctionAPI\\AuctionAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "OLX\\OLX.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

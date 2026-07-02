@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\mukul\\c# - Stage 2\\Day7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA43B6F-7540-06E4-09B3-67F9001BE0E3}|FlopCart\\FlopCart.csproj|c:\\mukul\\c# - stage 2\\day7\\flopcart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CA43B6F-7540-06E4-09B3-67F9001BE0E3}|FlopCart\\FlopCart.csproj|solutionrelative:flopcart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32544998-B680-AB54-0263-454A4A3A38B7}|ECommLibrary\\ECommLibrary.csproj|c:\\mukul\\c# - stage 2\\day7\\ecommlibrary\\repository\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32544998-B680-AB54-0263-454A4A3A38B7}|ECommLibrary\\ECommLibrary.csproj|solutionrelative:ecommlibrary\\repository\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32544998-B680-AB54-0263-454A4A3A38B7}|ECommLibrary\\ECommLibrary.csproj|c:\\mukul\\c# - stage 2\\day7\\ecommlibrary\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32544998-B680-AB54-0263-454A4A3A38B7}|ECommLibrary\\ECommLibrary.csproj|solutionrelative:ecommlibrary\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32544998-B680-AB54-0263-454A4A3A38B7}|ECommLibrary\\ECommLibrary.csproj|c:\\mukul\\c# - stage 2\\day7\\ecommlibrary\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32544998-B680-AB54-0263-454A4A3A38B7}|ECommLibrary\\ECommLibrary.csproj|solutionrelative:ecommlibrary\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32544998-B680-AB54-0263-454A4A3A38B7}|ECommLibrary\\ECommLibrary.csproj|c:\\mukul\\c# - stage 2\\day7\\ecommlibrary\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32544998-B680-AB54-0263-454A4A3A38B7}|ECommLibrary\\ECommLibrary.csproj|solutionrelative:ecommlibrary\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32544998-B680-AB54-0263-454A4A3A38B7}|ECommLibrary\\ECommLibrary.csproj|c:\\mukul\\c# - stage 2\\day7\\ecommlibrary\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32544998-B680-AB54-0263-454A4A3A38B7}|ECommLibrary\\ECommLibrary.csproj|solutionrelative:ecommlibrary\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32544998-B680-AB54-0263-454A4A3A38B7}|ECommLibrary\\ECommLibrary.csproj|c:\\mukul\\c# - stage 2\\day7\\ecommlibrary\\models\\ecommercecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32544998-B680-AB54-0263-454A4A3A38B7}|ECommLibrary\\ECommLibrary.csproj|solutionrelative:ecommlibrary\\models\\ecommercecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\mukul\\c# - Stage 2\\Day7\\FlopCart\\Program.cs",
+              "RelativeDocumentMoniker": "FlopCart\\Program.cs",
+              "ToolTip": "C:\\mukul\\c# - Stage 2\\Day7\\FlopCart\\Program.cs",
+              "RelativeToolTip": "FlopCart\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T06:22:49.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\mukul\\c# - Stage 2\\Day7\\ECommLibrary\\Repository\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "ECommLibrary\\Repository\\OrderRepository.cs",
+              "ToolTip": "C:\\mukul\\c# - Stage 2\\Day7\\ECommLibrary\\Repository\\OrderRepository.cs",
+              "RelativeToolTip": "ECommLibrary\\Repository\\OrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T05:26:31.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItemRepository.cs",
+              "DocumentMoniker": "C:\\mukul\\c# - Stage 2\\Day7\\ECommLibrary\\Repository\\ItemRepository.cs",
+              "RelativeDocumentMoniker": "ECommLibrary\\Repository\\ItemRepository.cs",
+              "ToolTip": "C:\\mukul\\c# - Stage 2\\Day7\\ECommLibrary\\Repository\\ItemRepository.cs",
+              "RelativeToolTip": "ECommLibrary\\Repository\\ItemRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAlwBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T05:26:20.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\mukul\\c# - Stage 2\\Day7\\ECommLibrary\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "ECommLibrary\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\mukul\\c# - Stage 2\\Day7\\ECommLibrary\\Models\\OrderItem.cs",
+              "RelativeToolTip": "ECommLibrary\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T04:44:43.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\mukul\\c# - Stage 2\\Day7\\ECommLibrary\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "ECommLibrary\\Models\\Order.cs",
+              "ToolTip": "C:\\mukul\\c# - Stage 2\\Day7\\ECommLibrary\\Models\\Order.cs",
+              "RelativeToolTip": "ECommLibrary\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T04:44:41.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\mukul\\c# - Stage 2\\Day7\\ECommLibrary\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "ECommLibrary\\Models\\Item.cs",
+              "ToolTip": "C:\\mukul\\c# - Stage 2\\Day7\\ECommLibrary\\Models\\Item.cs",
+              "RelativeToolTip": "ECommLibrary\\Models\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T04:44:38.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EcommerceContext.cs",
+              "DocumentMoniker": "C:\\mukul\\c# - Stage 2\\Day7\\ECommLibrary\\Models\\EcommerceContext.cs",
+              "RelativeDocumentMoniker": "ECommLibrary\\Models\\EcommerceContext.cs",
+              "ToolTip": "C:\\mukul\\c# - Stage 2\\Day7\\ECommLibrary\\Models\\EcommerceContext.cs",
+              "RelativeToolTip": "ECommLibrary\\Models\\EcommerceContext.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA5wCEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T04:44:26.088Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

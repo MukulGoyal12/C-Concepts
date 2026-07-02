@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\mukul\\c#- Stage 2\\Day3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{672FDAB2-7724-809C-E9A5-4B296BAFC817}|TestRealEstateLib\\TestRealEstateLib.csproj|c:\\mukul\\c#- stage 2\\day3\\testrealestatelib\\zameenservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{672FDAB2-7724-809C-E9A5-4B296BAFC817}|TestRealEstateLib\\TestRealEstateLib.csproj|solutionrelative:testrealestatelib\\zameenservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA131DF0-A205-94CC-219E-C62EEAAC4A3B}|RealEstate\\RealEstate.csproj|c:\\mukul\\c#- stage 2\\day3\\realestate\\repository\\izaminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA131DF0-A205-94CC-219E-C62EEAAC4A3B}|RealEstate\\RealEstate.csproj|solutionrelative:realestate\\repository\\izaminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA131DF0-A205-94CC-219E-C62EEAAC4A3B}|RealEstate\\RealEstate.csproj|c:\\mukul\\c#- stage 2\\day3\\realestate\\services\\zaminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA131DF0-A205-94CC-219E-C62EEAAC4A3B}|RealEstate\\RealEstate.csproj|solutionrelative:realestate\\services\\zaminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\mukul\\c# - Stage 2\\Day3\\RealEstate\\Services\\ZameenService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672FDAB2-7724-809C-E9A5-4B296BAFC817}|TestRealEstateLib\\TestRealEstateLib.csproj|c:\\mukul\\c#- stage 2\\day3\\testrealestatelib\\testrealestatelib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{672FDAB2-7724-809C-E9A5-4B296BAFC817}|TestRealEstateLib\\TestRealEstateLib.csproj|solutionrelative:testrealestatelib\\testrealestatelib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\mukul\\c# - Stage 2\\Day3\\TestRealEstateLib\\ZameenRepositoryTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\mukul\\c# - Stage 2\\Day3\\RealEstate\\Repository\\ZameenRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\mukul\\c# - Stage 2\\Day3\\RealEstate\\Models\\Zameen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\mukul\\c# - Stage 2\\Day3\\RealEstate\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IZaminRepository.cs",
+              "DocumentMoniker": "C:\\mukul\\c#- Stage 2\\Day3\\RealEstate\\Repository\\IZaminRepository.cs",
+              "RelativeDocumentMoniker": "RealEstate\\Repository\\IZaminRepository.cs",
+              "ToolTip": "C:\\mukul\\c#- Stage 2\\Day3\\RealEstate\\Repository\\IZaminRepository.cs",
+              "RelativeToolTip": "RealEstate\\Repository\\IZaminRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T04:54:13.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ZaminService.cs",
+              "DocumentMoniker": "C:\\mukul\\c#- Stage 2\\Day3\\RealEstate\\Services\\ZaminService.cs",
+              "RelativeDocumentMoniker": "RealEstate\\Services\\ZaminService.cs",
+              "ToolTip": "C:\\mukul\\c#- Stage 2\\Day3\\RealEstate\\Services\\ZaminService.cs",
+              "RelativeToolTip": "RealEstate\\Services\\ZaminService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T04:54:11.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ZameenRepositoryTest.cs",
+              "DocumentMoniker": "C:\\mukul\\c# - Stage 2\\Day3\\TestRealEstateLib\\ZameenRepositoryTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\c# - Stage 2\\Day3\\TestRealEstateLib\\ZameenRepositoryTest.cs",
+              "ToolTip": "C:\\mukul\\c# - Stage 2\\Day3\\TestRealEstateLib\\ZameenRepositoryTest.cs",
+              "RelativeToolTip": "..\\..\\c# - Stage 2\\Day3\\TestRealEstateLib\\ZameenRepositoryTest.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T04:46:45.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ZameenServiceTest.cs",
+              "DocumentMoniker": "C:\\mukul\\c#- Stage 2\\Day3\\TestRealEstateLib\\ZameenServiceTest.cs",
+              "RelativeDocumentMoniker": "TestRealEstateLib\\ZameenServiceTest.cs",
+              "ToolTip": "C:\\mukul\\c#- Stage 2\\Day3\\TestRealEstateLib\\ZameenServiceTest.cs",
+              "RelativeToolTip": "TestRealEstateLib\\ZameenServiceTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T06:54:03.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ZameenService.cs",
+              "DocumentMoniker": "C:\\mukul\\c# - Stage 2\\Day3\\RealEstate\\Services\\ZameenService.cs",
+              "RelativeDocumentMoniker": "..\\..\\c# - Stage 2\\Day3\\RealEstate\\Services\\ZameenService.cs",
+              "ToolTip": "C:\\mukul\\c# - Stage 2\\Day3\\RealEstate\\Services\\ZameenService.cs",
+              "RelativeToolTip": "..\\..\\c# - Stage 2\\Day3\\RealEstate\\Services\\ZameenService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T06:50:18.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ZameenRepository.cs",
+              "DocumentMoniker": "C:\\mukul\\c# - Stage 2\\Day3\\RealEstate\\Repository\\ZameenRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\c# - Stage 2\\Day3\\RealEstate\\Repository\\ZameenRepository.cs",
+              "ToolTip": "C:\\mukul\\c# - Stage 2\\Day3\\RealEstate\\Repository\\ZameenRepository.cs",
+              "RelativeToolTip": "..\\..\\c# - Stage 2\\Day3\\RealEstate\\Repository\\ZameenRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T06:48:27.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Zameen.cs",
+              "DocumentMoniker": "C:\\mukul\\c# - Stage 2\\Day3\\RealEstate\\Models\\Zameen.cs",
+              "RelativeDocumentMoniker": "..\\..\\c# - Stage 2\\Day3\\RealEstate\\Models\\Zameen.cs",
+              "ToolTip": "C:\\mukul\\c# - Stage 2\\Day3\\RealEstate\\Models\\Zameen.cs",
+              "RelativeToolTip": "..\\..\\c# - Stage 2\\Day3\\RealEstate\\Models\\Zameen.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T06:45:42.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestRealEstateLib.csproj",
+              "DocumentMoniker": "C:\\mukul\\c#- Stage 2\\Day3\\TestRealEstateLib\\TestRealEstateLib.csproj",
+              "RelativeDocumentMoniker": "TestRealEstateLib\\TestRealEstateLib.csproj",
+              "ToolTip": "C:\\mukul\\c#- Stage 2\\Day3\\TestRealEstateLib\\TestRealEstateLib.csproj",
+              "RelativeToolTip": "TestRealEstateLib\\TestRealEstateLib.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-24T07:05:39.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\mukul\\c# - Stage 2\\Day3\\RealEstate\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\..\\c# - Stage 2\\Day3\\RealEstate\\Class1.cs",
+              "ToolTip": "C:\\mukul\\c# - Stage 2\\Day3\\RealEstate\\Class1.cs",
+              "RelativeToolTip": "..\\..\\c# - Stage 2\\Day3\\RealEstate\\Class1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T06:44:22.652Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

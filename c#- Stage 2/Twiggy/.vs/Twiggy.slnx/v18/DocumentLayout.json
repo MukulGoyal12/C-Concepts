@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\mukul\\c# - Stage 2\\Twiggy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{860938D5-1481-FEAC-6CB9-E4BB15895063}|Twiggy\\Twiggy.csproj|c:\\mukul\\c# - stage 2\\twiggy\\twiggy\\repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860938D5-1481-FEAC-6CB9-E4BB15895063}|Twiggy\\Twiggy.csproj|solutionrelative:twiggy\\repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860938D5-1481-FEAC-6CB9-E4BB15895063}|Twiggy\\Twiggy.csproj|c:\\mukul\\c# - stage 2\\twiggy\\twiggy\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860938D5-1481-FEAC-6CB9-E4BB15895063}|Twiggy\\Twiggy.csproj|solutionrelative:twiggy\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860938D5-1481-FEAC-6CB9-E4BB15895063}|Twiggy\\Twiggy.csproj|c:\\mukul\\c# - stage 2\\twiggy\\twiggy\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860938D5-1481-FEAC-6CB9-E4BB15895063}|Twiggy\\Twiggy.csproj|solutionrelative:twiggy\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860938D5-1481-FEAC-6CB9-E4BB15895063}|Twiggy\\Twiggy.csproj|c:\\mukul\\c# - stage 2\\twiggy\\twiggy\\models\\twiggycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860938D5-1481-FEAC-6CB9-E4BB15895063}|Twiggy\\Twiggy.csproj|solutionrelative:twiggy\\models\\twiggycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860938D5-1481-FEAC-6CB9-E4BB15895063}|Twiggy\\Twiggy.csproj|c:\\mukul\\c# - stage 2\\twiggy\\twiggy\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860938D5-1481-FEAC-6CB9-E4BB15895063}|Twiggy\\Twiggy.csproj|solutionrelative:twiggy\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860938D5-1481-FEAC-6CB9-E4BB15895063}|Twiggy\\Twiggy.csproj|c:\\mukul\\c# - stage 2\\twiggy\\twiggy\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860938D5-1481-FEAC-6CB9-E4BB15895063}|Twiggy\\Twiggy.csproj|solutionrelative:twiggy\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860938D5-1481-FEAC-6CB9-E4BB15895063}|Twiggy\\Twiggy.csproj|c:\\mukul\\c# - stage 2\\twiggy\\twiggy\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{860938D5-1481-FEAC-6CB9-E4BB15895063}|Twiggy\\Twiggy.csproj|solutionrelative:twiggy\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860938D5-1481-FEAC-6CB9-E4BB15895063}|Twiggy\\Twiggy.csproj|c:\\mukul\\c# - stage 2\\twiggy\\twiggy\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{860938D5-1481-FEAC-6CB9-E4BB15895063}|Twiggy\\Twiggy.csproj|solutionrelative:twiggy\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860938D5-1481-FEAC-6CB9-E4BB15895063}|Twiggy\\Twiggy.csproj|c:\\mukul\\c# - stage 2\\twiggy\\twiggy\\migrations\\20260430115541_twiggy1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860938D5-1481-FEAC-6CB9-E4BB15895063}|Twiggy\\Twiggy.csproj|solutionrelative:twiggy\\migrations\\20260430115541_twiggy1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860938D5-1481-FEAC-6CB9-E4BB15895063}|Twiggy\\Twiggy.csproj|c:\\mukul\\c# - stage 2\\twiggy\\twiggy\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{860938D5-1481-FEAC-6CB9-E4BB15895063}|Twiggy\\Twiggy.csproj|solutionrelative:twiggy\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\mukul\\c# - Stage 2\\Twiggy\\Twiggy\\Repository\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Twiggy\\Repository\\CustomerRepository.cs",
+              "ToolTip": "C:\\mukul\\c# - Stage 2\\Twiggy\\Twiggy\\Repository\\CustomerRepository.cs",
+              "RelativeToolTip": "Twiggy\\Repository\\CustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T09:02:57.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TwiggyContext.cs",
+              "DocumentMoniker": "C:\\mukul\\c# - Stage 2\\Twiggy\\Twiggy\\Models\\TwiggyContext.cs",
+              "RelativeDocumentMoniker": "Twiggy\\Models\\TwiggyContext.cs",
+              "ToolTip": "C:\\mukul\\c# - Stage 2\\Twiggy\\Twiggy\\Models\\TwiggyContext.cs",
+              "RelativeToolTip": "Twiggy\\Models\\TwiggyContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T09:06:03.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\mukul\\c# - Stage 2\\Twiggy\\Twiggy\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Twiggy\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\mukul\\c# - Stage 2\\Twiggy\\Twiggy\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Twiggy\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T08:54:16.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\mukul\\c# - Stage 2\\Twiggy\\Twiggy\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Twiggy\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\mukul\\c# - Stage 2\\Twiggy\\Twiggy\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Twiggy\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T09:20:16.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\mukul\\c# - Stage 2\\Twiggy\\Twiggy\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Twiggy\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\mukul\\c# - Stage 2\\Twiggy\\Twiggy\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Twiggy\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T09:11:30.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\mukul\\c# - Stage 2\\Twiggy\\Twiggy\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Twiggy\\Models\\Customer.cs",
+              "ToolTip": "C:\\mukul\\c# - Stage 2\\Twiggy\\Twiggy\\Models\\Customer.cs",
+              "RelativeToolTip": "Twiggy\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T08:54:46.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\mukul\\c# - Stage 2\\Twiggy\\Twiggy\\Views\\Customer\\Index.cshtml",
+              "RelativeDocumentMoniker": "Twiggy\\Views\\Customer\\Index.cshtml",
+              "ToolTip": "C:\\mukul\\c# - Stage 2\\Twiggy\\Twiggy\\Views\\Customer\\Index.cshtml",
+              "RelativeToolTip": "Twiggy\\Views\\Customer\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-30T11:47:44.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20260430115541_Twiggy1.cs",
+              "DocumentMoniker": "C:\\mukul\\c# - Stage 2\\Twiggy\\Twiggy\\Migrations\\20260430115541_Twiggy1.cs",
+              "RelativeDocumentMoniker": "Twiggy\\Migrations\\20260430115541_Twiggy1.cs",
+              "ToolTip": "C:\\mukul\\c# - Stage 2\\Twiggy\\Twiggy\\Migrations\\20260430115541_Twiggy1.cs",
+              "RelativeToolTip": "Twiggy\\Migrations\\20260430115541_Twiggy1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T11:55:41.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\mukul\\c# - Stage 2\\Twiggy\\Twiggy\\Views\\Customer\\Create.cshtml",
+              "RelativeDocumentMoniker": "Twiggy\\Views\\Customer\\Create.cshtml",
+              "ToolTip": "C:\\mukul\\c# - Stage 2\\Twiggy\\Twiggy\\Views\\Customer\\Create.cshtml",
+              "RelativeToolTip": "Twiggy\\Views\\Customer\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-30T10:22:26.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\mukul\\c# - Stage 2\\Twiggy\\Twiggy\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Twiggy\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\mukul\\c# - Stage 2\\Twiggy\\Twiggy\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Twiggy\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-30T10:20:27.379Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

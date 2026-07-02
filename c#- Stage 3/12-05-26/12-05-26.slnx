@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="MaintenanceService/MaintenanceService.csproj" />
+  <Project Path="UserService/StaffService.csproj" />
+  <Project Path="VehicleService/VehicleService.csproj" />
+</Solution>

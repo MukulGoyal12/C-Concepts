@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ECommLibrary/ECommLibrary.csproj" />
+  <Project Path="FlopCart/FlopCart.csproj" />
+</Solution>

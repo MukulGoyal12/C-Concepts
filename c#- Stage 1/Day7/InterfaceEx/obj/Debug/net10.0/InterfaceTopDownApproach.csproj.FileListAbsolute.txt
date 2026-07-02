@@ -1,0 +1,4 @@
+C:\mukul\c#\Day7\InterfaceEx\obj\Debug\net10.0\InterfaceTopDownApproach.GeneratedMSBuildEditorConfig.editorconfig
+C:\mukul\c#\Day7\InterfaceEx\obj\Debug\net10.0\InterfaceTopDownApproach.AssemblyInfoInputs.cache
+C:\mukul\c#\Day7\InterfaceEx\obj\Debug\net10.0\InterfaceTopDownApproach.AssemblyInfo.cs
+C:\mukul\c#\Day7\InterfaceEx\obj\Debug\net10.0\InterfaceTopDownApproach.csproj.CoreCompileInputs.cache

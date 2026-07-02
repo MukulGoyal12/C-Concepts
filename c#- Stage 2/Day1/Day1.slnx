@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Gaadi/Gaadi.csproj" Id="978779a1-8b77-411f-9911-4b29b7da6254" />
+  <Project Path="RealEstate/RealEstate.csproj" />
+  <Project Path="RealEstateLibrary/RealEstateLibrary.csproj" Id="ebf671f1-46b5-4f06-a53d-8ce372b4e39b" />
+  <Project Path="Vehicle/Vehicle.csproj" />
+</Solution>

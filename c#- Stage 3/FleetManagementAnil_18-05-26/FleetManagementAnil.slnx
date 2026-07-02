@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="MaintenanceService/MaintenanceService.csproj" />
+  <Project Path="StaffService/StaffService.csproj" />
+  <Project Path="VehicleService/VehicleService.csproj" />
+  <Project Path="WebAppClient/WebAppClient.csproj" />
+</Solution>

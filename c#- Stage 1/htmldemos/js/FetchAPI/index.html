@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <table id="placeholder" border="1"></table>
+    
+    <script>
+        fetch('https://fakestoreapi.com/products')
+            .then(response => response.json())
+            .then((data) => {
+                let table = document.getElementById("placeholder");
+                data.forEach((p)=>{
+                    table.innerHTML += `<tr><td>${p.id}</td><td>${p.title}</td><td><img src="${p.image}" height='150px' width='150px'></td><td><button type="submit">Add to Cart</button></td></tr>`
+                })
+            });
+    </script>
+</body>
+
+</html>

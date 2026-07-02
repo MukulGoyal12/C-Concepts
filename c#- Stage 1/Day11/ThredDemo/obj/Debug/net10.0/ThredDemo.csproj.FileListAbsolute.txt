@@ -1,0 +1,14 @@
+C:\mukul\c#\Day11\ThredDemo\bin\Debug\net10.0\ThredDemo.exe
+C:\mukul\c#\Day11\ThredDemo\bin\Debug\net10.0\ThredDemo.deps.json
+C:\mukul\c#\Day11\ThredDemo\bin\Debug\net10.0\ThredDemo.runtimeconfig.json
+C:\mukul\c#\Day11\ThredDemo\bin\Debug\net10.0\ThredDemo.dll
+C:\mukul\c#\Day11\ThredDemo\bin\Debug\net10.0\ThredDemo.pdb
+C:\mukul\c#\Day11\ThredDemo\obj\Debug\net10.0\ThredDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\mukul\c#\Day11\ThredDemo\obj\Debug\net10.0\ThredDemo.AssemblyInfoInputs.cache
+C:\mukul\c#\Day11\ThredDemo\obj\Debug\net10.0\ThredDemo.AssemblyInfo.cs
+C:\mukul\c#\Day11\ThredDemo\obj\Debug\net10.0\ThredDemo.csproj.CoreCompileInputs.cache
+C:\mukul\c#\Day11\ThredDemo\obj\Debug\net10.0\ThredDemo.dll
+C:\mukul\c#\Day11\ThredDemo\obj\Debug\net10.0\refint\ThredDemo.dll
+C:\mukul\c#\Day11\ThredDemo\obj\Debug\net10.0\ThredDemo.pdb
+C:\mukul\c#\Day11\ThredDemo\obj\Debug\net10.0\ThredDemo.genruntimeconfig.cache
+C:\mukul\c#\Day11\ThredDemo\obj\Debug\net10.0\ref\ThredDemo.dll

@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="TaskDemo/TaskDemo.csproj" />
+  <Project Path="ThredDemo/ThredDemo.csproj" />
+</Solution>

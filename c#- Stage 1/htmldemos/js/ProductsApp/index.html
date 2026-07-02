@@ -1,0 +1,63 @@
+<!-- how js handle parallel execution, it is not multi threaded?
+Event Loop
+java executes on v8 engine whihc include call stack for synchronious functions and when any async func come it goes to browser whih contains web apis where it wait for callback queue to be empty and then it will move there and executes.
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width= , initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div class="container">
+        <form action="">
+            <label for="id">ID
+            </label>
+            <input type="number" name="id" id="id">
+            <br><br>
+            <label for="price">Price
+            </label>
+            <input type="number" name="price" id="price">
+            <br><br>
+            <label for="qty">Quantity
+            </label>
+            <input type="number" name="qty" id="qty">
+        </form>
+        <br>
+        <button type="submit" onclick="addProducts()">Add</button>
+        <button type="submit" onclick="empty()">Cancel</button>
+        <br><br><br>
+        <div >
+            <table id="productsTable">
+                <tr>
+                    <th>S.no</th>
+                    <th>ID</th>
+                    <th>Price</th>
+                    <th>Quantity</th>
+                </tr> 
+            </table>
+        </div>
+    </div>
+
+    <script>        
+        let sno=1;
+        function addProducts(){
+            let id=document.getElementById("id").value;
+            let price=document.getElementById("price").value;
+            let qty=document.getElementById("qty").value;
+            // console.log("button clicked")
+            document.getElementById("productsTable").innerHTML+= `<tr><td>${sno++}</td><td>${id}</td><td>${price}</td><td>${qty}</td></tr>`
+        }
+        
+        function empty(){
+            document.getElementById("id").value="";
+            document.getElementById("price").value="";
+            document.getElementById("qty").value="";
+            
+        }
+
+    </script>
+</body>
+</html>

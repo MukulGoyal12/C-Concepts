@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="BankLibrary/Bank_Library.csproj" />
+  <Project Path="DelegatesExample/DelegateEx.csproj" />
+  <Project Path="InBuiltDeligates/InBuiltDeligates.csproj" />
+</Solution>

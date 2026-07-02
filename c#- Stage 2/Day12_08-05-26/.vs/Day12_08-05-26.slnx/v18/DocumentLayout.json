@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\mukul\\c# - Stage 2\\Day12_08-05-26\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0869D58D-C7B9-49E2-A90D-BF9A77EEF7A7}|FoodAPI\\FoodAPI.csproj|c:\\mukul\\c# - stage 2\\day12_08-05-26\\foodapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0869D58D-C7B9-49E2-A90D-BF9A77EEF7A7}|FoodAPI\\FoodAPI.csproj|solutionrelative:foodapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0869D58D-C7B9-49E2-A90D-BF9A77EEF7A7}|FoodAPI\\FoodAPI.csproj|c:\\mukul\\c# - stage 2\\day12_08-05-26\\foodapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0869D58D-C7B9-49E2-A90D-BF9A77EEF7A7}|FoodAPI\\FoodAPI.csproj|solutionrelative:foodapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0869D58D-C7B9-49E2-A90D-BF9A77EEF7A7}|FoodAPI\\FoodAPI.csproj|c:\\mukul\\c# - stage 2\\day12_08-05-26\\foodapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0869D58D-C7B9-49E2-A90D-BF9A77EEF7A7}|FoodAPI\\FoodAPI.csproj|solutionrelative:foodapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\mukul\\c# - Stage 2\\Day12_08-05-26\\FoodAPI\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "FoodAPI\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\mukul\\c# - Stage 2\\Day12_08-05-26\\FoodAPI\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "FoodAPI\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T04:20:06.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\mukul\\c# - Stage 2\\Day12_08-05-26\\FoodAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FoodAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\mukul\\c# - Stage 2\\Day12_08-05-26\\FoodAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FoodAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-15T04:02:25.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\mukul\\c# - Stage 2\\Day12_08-05-26\\FoodAPI\\Program.cs",
+              "RelativeDocumentMoniker": "FoodAPI\\Program.cs",
+              "ToolTip": "C:\\mukul\\c# - Stage 2\\Day12_08-05-26\\FoodAPI\\Program.cs",
+              "RelativeToolTip": "FoodAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T04:01:24.4Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

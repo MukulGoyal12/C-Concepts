@@ -1,0 +1,14 @@
+C:\mukul\c#\Day7\GenericDemo\obj\Debug\net10.0\GenericDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\mukul\c#\Day7\GenericDemo\obj\Debug\net10.0\GenericDemo.AssemblyInfoInputs.cache
+C:\mukul\c#\Day7\GenericDemo\obj\Debug\net10.0\GenericDemo.AssemblyInfo.cs
+C:\mukul\c#\Day7\GenericDemo\obj\Debug\net10.0\GenericDemo.csproj.CoreCompileInputs.cache
+C:\mukul\c#\Day7\GenericDemo\bin\Debug\net10.0\GenericDemo.exe
+C:\mukul\c#\Day7\GenericDemo\bin\Debug\net10.0\GenericDemo.deps.json
+C:\mukul\c#\Day7\GenericDemo\bin\Debug\net10.0\GenericDemo.runtimeconfig.json
+C:\mukul\c#\Day7\GenericDemo\bin\Debug\net10.0\GenericDemo.dll
+C:\mukul\c#\Day7\GenericDemo\bin\Debug\net10.0\GenericDemo.pdb
+C:\mukul\c#\Day7\GenericDemo\obj\Debug\net10.0\GenericDemo.dll
+C:\mukul\c#\Day7\GenericDemo\obj\Debug\net10.0\refint\GenericDemo.dll
+C:\mukul\c#\Day7\GenericDemo\obj\Debug\net10.0\GenericDemo.pdb
+C:\mukul\c#\Day7\GenericDemo\obj\Debug\net10.0\GenericDemo.genruntimeconfig.cache
+C:\mukul\c#\Day7\GenericDemo\obj\Debug\net10.0\ref\GenericDemo.dll

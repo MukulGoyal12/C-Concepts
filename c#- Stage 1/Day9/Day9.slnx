@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ADODemo/ADODemo.csproj" Id="b7de4d47-dd81-46d0-88d0-4d22670c6ee4" />
+  <Project Path="JSONSerialization/JSONSerialization.csproj" />
+  <Project Path="kashtaPad/kashtaPad.csproj" />
+</Solution>
